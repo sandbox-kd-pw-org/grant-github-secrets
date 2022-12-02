@@ -1,2 +1,3 @@
 test/repo1
 sandbox-kd-pw-org/snint-test-dupa
+sandbox-kd-pw-org/snint-asd-asd
